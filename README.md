@@ -21,19 +21,19 @@ The final phase brings all the elements together in a visually compelling and in
 ## Project Preview
 
 <div align="left">
-  <img height="400" src="https://github.com/Hashithw/Marven-Market-Power-BI-Project/blob/main/Maven%20Market%20Project%20Report%20images/main%20Page.jpg?raw=true"  />
+  <img height="400" src="https://github.com/Hashithw/Marven-Market-Power-BI-Project/blob/main/MavenMarket_Report%20Page%20images/main%20Page.jpg?raw=true"  />
 </div>
 
 ###
 
 <div align="left">
-  <img height="400" src="https://github.com/Hashithw/Marven-Market-Power-BI-Project/blob/main/Maven%20Market%20Project%20Report%20images/Products.jpg?raw=true"  />
+  <img height="400" src="https://github.com/Hashithw/Marven-Market-Power-BI-Project/blob/main/MavenMarket_Report%20Page%20images/Products.jpg?raw=true"  />
 </div>
 
 ###
 
 <div align="left">
-  <img height="400" src="https://github.com/Hashithw/Marven-Market-Power-BI-Project/blob/main/Maven%20Market%20Project%20Report%20images/Customer.jpg?raw=true"  />
+  <img height="400" src="https://github.com/Hashithw/Marven-Market-Power-BI-Project/blob/main/MavenMarket_Report%20Page%20images/Customer.jpg?raw=true"  />
 </div>
 
 ###
